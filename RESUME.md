@@ -3,11 +3,6 @@
 
 ## Work Experience
 
-### Career Break
-*January 2025 - Present*
-
-Currently taking time out of full time employment to focus on completing my postgraduate diploma and career planning.
-
 ### Caseworker, Vikki Slade MP
 *February 2025 - February 2025*
 
