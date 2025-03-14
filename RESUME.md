@@ -1,62 +1,53 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
-
-## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+# Douglas Munro
+[douglas@douglasmunro.co.uk](mailto:douglas@douglasmunro.co.uk)
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### Career Break
+*January 2025 - Present*
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+Currently taking time out of full time employment to focus on completing my postgraduate diploma and career planning.
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+### Caseworker, Vikki Slade MP
+*February 2025 - February 2025*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+Short-term appointment to provide additional casework capacity.
+
+### Senior Caseworker, Wendy Chamberlain MP
+*October 2022 - January 2025*
+
+- Responded professionally, sensitively, confidentially and with integrity to routine correspondence and enquiries by email, telephone, social media and face to face from constituents, media, lobbyists and pressure groups.
+- Researched policy/legislative issues, quickly developing understanding of often complex issues and providing accurate briefings/advice to the MP, constituents and others (staff, other offices, press etc).
+- Prepared content to be used for communications (letters, press, social media, website).
+- Liaised with Government agencies, the voluntary sector and others to resolve constituency issues.
+- Developed and maintained office contacts databases.
+- Mentored other members of staff.
+
+### Consultant, The Liberal Democrats
+*August 2024 - September 2024*
+
+Seconded to the Liberal Democrat Whips' Office to advise on the service delivery of a pooled research service for Liberal Democrat MPs, following the recent election. Produced a report with recommendations for service level changes. During the project I;
+
+- Evaluated the current service model.
+- Planned and delivered survey of users.
+- Conducted focus groups.
+
+### Caseworker, Wendy Chamberlain MP
+*March 2020 - September 2022*
+
+- Responded to incoming queries (phone & email).
+- Identified, organised, and prioritised constituency casework.
+- Led on business & consumer rights casework.
+- Researched issues and analysed information to identify solutions.
+- Drafted campaign & policy responses, and formal responses to constituents and external parties.
+- Prepared the Member for meetings and following up any action points.
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Postgraduate diploma in Data Analytics and Social Statistics
+*University of Manchester*  
+*2023 - Present*
 
-## Skills
-
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
-
-## Certifications
-
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
-
-## Projects
-
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
-
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
-
-## Languages
-
-- English: Fluent
-- Swahili: Native
-
-## Interests
-
-- Hiking
-- Technology
-- Photography
+### Master of Arts (Scotland) in Politics & International Relations	
+*University of Aberdeen*  
+*2013 - 2017*
