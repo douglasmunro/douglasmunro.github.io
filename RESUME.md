@@ -60,3 +60,14 @@ Completed course units:
 - Journalism Skills - 2023
 - Applied Statistics - 2023
 - Data Analysis and Programming - 2021
+
+## Knowledge Areas
+
+- Parliamentary Procedure (UK & Scotland)
+- Devolution
+- Local Government
+- Welfare Rights
+- Asylum & Immigration
+- Housing & Planning
+- Consumer Rights
+
