@@ -50,8 +50,13 @@ Completed course units:
 - Survey Methods and Online Research
 - Data Science Modelling
 
-
-
 ### Master of Arts (Scotland) in Politics & International Relations	
 *University of Aberdeen*  
 *2013 - 2017*
+
+## Professional Development 
+
+- Media Handling & Social Media - 2023
+- Journalism Skills - 2023
+- Applied Statistics - 2023
+- Data Analysis and Programming - 2021
