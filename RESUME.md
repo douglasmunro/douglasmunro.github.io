@@ -6,7 +6,7 @@
 ### Caseworker, Vikki Slade MP
 *February 2025 - February 2025*
 
-Short-term appointment to provide additional casework capacity.
+Short-term appointment to provide additional casework capacity to the office (tasks similar to below).
 
 ### Senior Caseworker, Wendy Chamberlain MP
 *October 2022 - January 2025*
