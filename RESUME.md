@@ -21,11 +21,11 @@ Short-term appointment to provide additional casework capacity.
 ### Consultant, The Liberal Democrats
 *August 2024 - September 2024*
 
-Seconded to the Liberal Democrat Whips' Office to advise on the service delivery of a pooled research service for Liberal Democrat MPs, following the recent election. Produced a report with recommendations for service level changes. During the project I;
+Seconded to the Liberal Democrat Whips' Office to advise on the service delivery of a pooled research service for Liberal Democrat MPs, following the recent election. Produced a report with recommendations for service level changes. Project included;
 
-- Evaluated the current service model.
-- Planned and delivered survey of users.
-- Conducted focus groups.
+- Evaluating the current service model.
+- Planning and delivering user survey.
+- Conducting focus groups.
 
 ### Caseworker, Wendy Chamberlain MP
 *March 2020 - September 2022*
@@ -42,6 +42,15 @@ Seconded to the Liberal Democrat Whips' Office to advise on the service delivery
 ### Postgraduate diploma in Data Analytics and Social Statistics
 *University of Manchester*  
 *2023 - Present*
+
+Completed course units:
+
+- Data Cleaning and Visualisation Using R
+- Introduction to Statistical Modelling
+- Survey Methods and Online Research
+- Data Science Modelling
+
+
 
 ### Master of Arts (Scotland) in Politics & International Relations	
 *University of Aberdeen*  
