@@ -64,7 +64,6 @@ Completed course units:
 ## Knowledge Areas
 
 - Parliamentary Procedure (UK & Scotland)
-- Devolution
 - Local Government
 - Welfare Rights
 - Asylum & Immigration
