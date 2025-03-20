@@ -26,7 +26,7 @@ Short-term appointment to provide additional casework capacity to the office.
 ### Consultant, The Liberal Democrats
 *August 2024 - September 2024*
 
-Seconded to the Liberal Democrat Whips' Office to advise on the service delivery of a pooled research service for Liberal Democrat MPs, following the recent election. Produced a report with recommendations for service level changes. Project included;
+Seconded to the Liberal Democrat Whips' Office to advise on the service delivery of a pooled research service for Liberal Democrat MPs, following the recent election. Produced a report with recommendations for service level changes. The project included;
 
 - Evaluating the current service model.
 - Planning and delivering user survey.
