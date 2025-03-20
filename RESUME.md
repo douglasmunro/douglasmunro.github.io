@@ -3,10 +3,15 @@
 
 ## Work Experience
 
+### Caseworker, Alistair Carmichael MP
+*March 2025 - Present*
+
+Short-term appointment to assist with policy casework.
+
 ### Caseworker, Vikki Slade MP
 *February 2025 - February 2025*
 
-Short-term appointment to provide additional casework capacity to the office (tasks similar to below).
+Short-term appointment to provide additional casework capacity to the office.
 
 ### Senior Caseworker, Wendy Chamberlain MP
 *October 2022 - January 2025*
@@ -43,12 +48,14 @@ Seconded to the Liberal Democrat Whips' Office to advise on the service delivery
 *University of Manchester*  
 *2023 - Present*
 
-Completed course units:
+Course units:
 
 - Data Cleaning and Visualisation Using R
 - Introduction to Statistical Modelling
 - Survey Methods and Online Research
 - Data Science Modelling
+- Multilevel and Longitudinal Analysis
+- Demographic Forecasting
 
 ### Master of Arts (Scotland) in Politics & International Relations	
 *University of Aberdeen*  
