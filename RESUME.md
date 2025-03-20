@@ -3,6 +3,11 @@
 
 ## Work Experience
 
+### Career Break
+*January 2025 - Present*
+
+Short break from full-time employment to focus on completing postgraduate diploma and career planning.
+
 ### Caseworker, Alistair Carmichael MP
 *March 2025 - Present*
 
@@ -29,8 +34,7 @@ Short-term appointment to provide additional casework capacity to the office.
 Seconded to the Liberal Democrat Whips' Office to advise on the service delivery of a pooled research service for Liberal Democrat MPs, following the recent election. Produced a report with recommendations for service level changes. The project included;
 
 - Evaluating the current service model.
-- Planning and delivering user survey.
-- Conducting focus groups.
+- Planning and delivering user survey and focus groups.
 
 ### Caseworker, Wendy Chamberlain MP
 *March 2020 - September 2022*
